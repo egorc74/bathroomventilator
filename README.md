@@ -1,1 +1,2 @@
-text
+I developed firmware for an automated bathroom ventilator using an ESP32, paired with a Chinese step-down converter (220V AC to 3.3V DC) repurposed from another device. The ESP32 manages requests to its IP address, allowing users to adjust operating settings and monitor real-time data. It continuously tracks humidity and temperature, activating the ventilator when predefined thresholds are reached. Safety measures are in place to prevent overheating and ensure reliable operation. The biggest challenge was integrating everything into the ventilator's enclosure, mounted high on the wall, making installation and maintenance tricky.
+
